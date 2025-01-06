@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mani Singh",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,7 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git",
-		"description": "A project that does something awesome"
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
